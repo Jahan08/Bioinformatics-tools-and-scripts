@@ -1,6 +1,8 @@
 # Bioinformatics
 Tools: 
 
+Sequence analysis:
+
 1. VEP- Variant effect predictor
 2. AlphaMissense along with alpha fold
 3. scvi tools
@@ -15,7 +17,7 @@ Protein structure prediction:
 2. ESM-Fold
 
 
-Molecular docking 
+Molecular docking: 
 
 1. DiffDock
 2. Smina
