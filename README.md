@@ -22,3 +22,8 @@ Molecular docking:
 1. DiffDock
 2. Smina
 3. gnina
+
+Uniprot Tools:
+1. BLAST
+2. Align
+3. Expression Atlas
