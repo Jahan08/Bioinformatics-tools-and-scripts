@@ -27,3 +27,5 @@ Uniprot Tools:
 1. BLAST
 2. Align
 3. Expression Atlas
+
+QuickGO is a web-based browser for viewing and exploring the Gene Ontology (GO), the Evidence and Conclusion Ontology (ECO), and GO annotations 
