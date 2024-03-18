@@ -36,4 +36,4 @@ Arctic3D: ARCTIC-3D is a software for data-mining and clustering of protein inte
 
 SPMWeb: SPMweb is the online webserver of the Shortest Path Map (SPM) tool for identifying the key conformationally- relevant positions of a given enzyme structure and dynamics. (https://spmosuna.com/)
 
-GlycoSHIELD is a simple MD pipeline to generate glycoprotein models
+GlycoSHIELD is a simple MD pipeline to generate glycoprotein models. "Glycan shields" refers to the protective structures formed by complex sugars attached to proteins through glycosylation. These shields are dynamic and cover a significant portion of the protein surface, impacting protein conformation and surface accessibility. Computational methods like GlycoSHIELD can model these glycan structures efficiently, providing insights into their morphology and impact on protein structure.
