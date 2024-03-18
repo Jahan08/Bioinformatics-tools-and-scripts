@@ -30,3 +30,6 @@ Uniprot Tools:
 4. PDBe knowledge based protein-ligand iteraction
 
 QuickGO is a web-based browser for viewing and exploring the Gene Ontology (GO), the Evidence and Conclusion Ontology (ECO), and GO annotations 
+
+Arctic3D: ARCTIC-3D is a software for data-mining and clustering of protein interface information (https://wenmr.science.uu.nl/arctic3d/)
+SPMWeb: SPMweb is the online webserver of the Shortest Path Map (SPM) tool for identifying the key conformationally- relevant positions of a given enzyme structure and dynamics. (https://spmosuna.com/)
